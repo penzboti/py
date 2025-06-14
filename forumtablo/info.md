@@ -1,3 +1,10 @@
+# info
+rig voting
+
+# tutorials used
+https://youtu.be/FbtCl9jJyyc?si=C3D-GhplBQZmLxBW
+
+# http info (not needed)
 url: https://forumtablo.hu/tablo/szavazas
 
 payload (form data): nev=szeretematejet&email=tarl%40gmail.com&jatekszabalyzat=1&kep=10
